@@ -1,6 +1,6 @@
 {
   "name": "busteroo",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "add cache busting query string to urls referenced in files",
   "main": "lib/buster.js",
   "bin": {
@@ -9,8 +9,8 @@
   "author": "yetzt <node@yetzt.me>",
   "license": "Unlicense",
   "dependencies": {
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "node-dir": "^0.1.17",
-    "queue": "^4.4.2"
+    "queue": "^6.0.2"
   }
 }
